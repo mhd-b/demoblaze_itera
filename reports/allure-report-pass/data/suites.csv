@@ -1,0 +1,20 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 30 00:44:11 CEST 2022","Fri Sep 30 00:44:14 CEST 2022","2695","","main","TestDemoBlazer","","","test_03_login","
+        Login and check that the correct user is logged in
+         using the created user from previous test
+        "
+"passed","Fri Sep 30 00:44:08 CEST 2022","Fri Sep 30 00:44:10 CEST 2022","1435","","main","TestDemoBlazer","","","test_01_homepage","
+        Open home page and assert correct site is loaded.
+        "
+"passed","Fri Sep 30 00:44:14 CEST 2022","Fri Sep 30 00:44:35 CEST 2022","21072","","main","TestDemoBlazer","","","test_04_select_products_add_to_cart","
+        Select multiple products from different categories
+        and add them to a wishing list cart.
+        "
+"passed","Fri Sep 30 00:44:10 CEST 2022","Fri Sep 30 00:44:11 CEST 2022","1676","","main","TestDemoBlazer","","","test_02_signup","
+        Sign up a new generic user using random username and
+        password from config file.
+        "
+"passed","Fri Sep 30 00:44:35 CEST 2022","Fri Sep 30 00:44:38 CEST 2022","2574","","main","TestDemoBlazer","","","test_05_check_cart_place_order","
+        Check that cart got actually same selected products from the wish list cart.
+        Place the order and validate the entered details with the order summary.
+        "
